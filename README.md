@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... thumijosphat47@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Spiders are the only web developers that enjoy finding bugs
 
 <!---
 J-Thumi/J-Thumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
