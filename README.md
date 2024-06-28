@@ -1,4 +1,5 @@
 <h1>Josphat Thumi</h1>
+**'MERN Stack Developer'**
 I'm a passionate and results-oriented MERN stack developer with a strong foundation in JavaScript and a focus on building dynamic and user-friendly web applications. I possess expertise in the following technologies:
 
 MERN Stack:
