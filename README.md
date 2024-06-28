@@ -8,7 +8,7 @@
   <a href="https://x.com/ThumiJosphat">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=J-Thumi&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
