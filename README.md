@@ -10,7 +10,10 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=J-Thumi&style=flat-square&color=blue" alt=""/>
 </div>
-
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ---
 <h1>
   Hey There
@@ -42,8 +45,8 @@ I'm always eager to take on new challenges and contribute to innovative projects
 
 ---
 
- :fire: My Stats :
- https://github-readme-streak-stats.herokuapp.com/?J-Thumi
+ <h3>:fire: My Stats :</h3>
+ 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=J-Thumi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
