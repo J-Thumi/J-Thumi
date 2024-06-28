@@ -35,3 +35,7 @@ I'm always eager to take on new challenges and contribute to innovative projects
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 </div>
+
+---
+
+ :fire: My Stats :
