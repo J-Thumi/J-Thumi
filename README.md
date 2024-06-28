@@ -1,6 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/josphat-thumi-0b0795308/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/ThumiJosphat">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+---
 <h1>
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -13,16 +23,7 @@ I'm a passionate and results-oriented MERN stack developer with a strong foundat
 I'm always eager to take on new challenges and contribute to innovative projects. Feel free to reach out to discuss potential opportunities or explore my portfolio for further details on my work.
 
 ---
-<div id="badges">
-  <a href="https://www.linkedin.com/in/josphat-thumi-0b0795308/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/ThumiJosphat">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
----
 <h3>:hammer_and_wrench:Languages and Tools :</h3> 
 
 <div>
