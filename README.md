@@ -1,9 +1,11 @@
 
 <h1>
-  hey there
+  Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I am
+  Josphat Thumi
 </h1>
-<h1>Josphat Thumi</h1>
+
 
 
 I'm a passionate and results-oriented MERN stack developer with a strong foundation in JavaScript and a focus on building dynamic and user-friendly web applications. 
