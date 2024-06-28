@@ -18,7 +18,7 @@
   I am
   Josphat Thumi
 </h1>
- :woman_technologist: About Me :
+ <h3>:woman_technologist: About Me :</h3>
 
 I'm a passionate and results-oriented MERN stack developer with a strong foundation in JavaScript and a focus on building dynamic and user-friendly web applications. 
 I'm always eager to take on new challenges and contribute to innovative projects. Feel free to reach out to discuss potential opportunities or explore my portfolio for further details on my work.
@@ -37,6 +37,7 @@ I'm always eager to take on new challenges and contribute to innovative projects
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 </div>
 
