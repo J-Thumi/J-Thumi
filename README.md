@@ -21,4 +21,4 @@ I'm always eager to take on new challenges and contribute to innovative projects
 </div>
 
 ---
-<h3>Languages and Tools</h3>
+:hammer_and_wrench: Languages and Tools :
