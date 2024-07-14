@@ -49,6 +49,9 @@ I'm always eager to take on new challenges and contribute to innovative projects
   <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original-wordmark.svg" title="antd" alt="antd" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="antd" alt="antd" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="antd" alt="antd" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="antd" alt="antd" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg
+    " title="antd" alt="antd" width="60" height="60"/>
 
 </div>
 
