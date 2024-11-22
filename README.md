@@ -56,6 +56,7 @@ I'm always eager to take on new challenges and contribute to innovative projects
  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="antd" alt="antd" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="antd" alt="antd" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="antd" alt="antd" width="60" height="60"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="antd" alt="antd" width="60" height="60"/> 
 </div>
 
 ---
