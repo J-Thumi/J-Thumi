@@ -20,10 +20,10 @@
 </h1>
  <h3>:woman_technologist: About Me :</h3>
 <p>
-I'm a passionate and results-oriented MERN stack developer with a strong foundation in JavaScript and a focus on building dynamic and user-friendly web applications. 
-I'm always eager to take on new challenges and contribute to innovative projects. Feel free to reach out to discuss potential opportunities or explore my portfolio for further details on my work.
+I'm a passionate and detail-oriented Full-Stack Web Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js) and Laravel (PHP).
+
+With a strong foundation in both JavaScript and PHP ecosystems, I build scalable, secure, and user-friendly web applications from end to end. I enjoy solving real-world problems with clean, maintainable code and continuously improving my craft.
 </p>
----
 
 <h3>:hammer_and_wrench:Languages and Tools :</h3> 
 
