@@ -20,9 +20,13 @@
 </h1>
  <h3>:woman_technologist: About Me :</h3>
 <p>
-I'm a passionate and detail-oriented Full-Stack Web Developer specializing in the MERN Stack (MongoDB, Express.js, React.js, Node.js) and Laravel (PHP).
+I’m a Laravel/PHP developer who enjoys building web applications that are reliable, scalable, and easy to maintain. Most of my work revolves around backend development, API design, and database management, and I’ve learned how to turn business needs into practical solutions that actually work.
 
-With a strong foundation in both JavaScript and PHP ecosystems, I build scalable, secure, and user-friendly web applications from end to end. I enjoy solving real-world problems with clean, maintainable code and continuously improving my craft.
+I work with Laravel, PHP, MySQL, REST APIs, Git, Caprover and Docker. I’m comfortable moving between writing clean backend code, integrating third-party services, and improving performance where it matters. Along the way, I’ve integrated APIs like WhatsApp, M-Pesa, SMS gateways, eTIMS, and Zoho, which has given me solid experience connecting applications to real business processes and external platforms.
+
+I’m always learning — whether it’s new features in Laravel, better ways to structure code, or tools that improve security and performance. My goal is to keep growing as a developer while contributing to projects that have real impact.
+
+I’m open to opportunities where I can apply my skills, work with great teams, and keep pushing myself forward.
 </p>
 
 <h3>:hammer_and_wrench:Languages and Tools :</h3> 
