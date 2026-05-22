@@ -16,7 +16,7 @@
 
 Backend developer specialising in Laravel and PHP, with a focus on clean architecture, scalable APIs, and database performance. I translate business requirements into maintainable software and have hands-on experience integrating M-Pesa, WhatsApp, eTIMS, SMS gateways, and Zoho APIs into production systems.
 
-I work with agile teams, write testable code, and take care with deployment pipelines using Docker and CapRover. I'm continuously improving — whether that's a new Laravel feature, a design pattern, or a performance optimisation.
+I work with agile teams, write testable code, and take care with deployment pipelines using Docker and CapRover. I'm continuously improving, whether that's a new Laravel feature, a design pattern, or a performance optimisation.
 
 Open to backend engineering roles, API integration work, and consulting — remote or Nairobi-based.
 
