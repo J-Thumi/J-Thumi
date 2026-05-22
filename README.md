@@ -42,7 +42,7 @@ Open to backend engineering roles, API integration work, and consulting, remote 
 
 | Integration | Purpose |
 |---|---|
-| **M-Pesa (Daraja)** | Mobile payments — STK Push, C2B, B2C |
+| **M-Pesa (Daraja)** | Mobile payments, STK Push, C2B, B2C |
 | **WhatsApp Business API** | Automated customer notifications |
 | **eTIMS** | KRA electronic tax invoice management |
 | **Zoho** | CRM and business workflow sync |
