@@ -18,7 +18,7 @@ Backend developer specialising in Laravel and PHP, with a focus on clean archite
 
 I work with agile teams, write testable code, and take care with deployment pipelines using Docker and CapRover. I'm continuously improving, whether that's a new Laravel feature, a design pattern, or a performance optimisation.
 
-Open to backend engineering roles, API integration work, and consulting — remote or Nairobi-based.
+Open to backend engineering roles, API integration work, and consulting, remote or Nairobi-based.
 
 ---
 
